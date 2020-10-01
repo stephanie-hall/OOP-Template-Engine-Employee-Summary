@@ -13,14 +13,14 @@ This application uses Node coupled with CLI to gather user provided information 
 ## Installation
 
 This application uses Jest to test code and Inquierer to prompt user to gather data. Simply run the following to gather dependencies:
-> npm i
+> npm install
 
 To initiate your application, you will need to enter the following command:
 > node app.js
 
 ## License
 
-![License]()
+![License](https://img.shields.io/badge/License-none-blue.svg)
 
 ## Tests
 
@@ -29,8 +29,8 @@ To execute tests the user must execute the following command:
 
 ## Input
 
-![Employee Summary 1]()
+![Employee Summary 1](assets/HW10Gif.gif)
 
 ## Output
 
-![Employee Summary 1]()
+![Employee Summary 1](assets/HW10.PNG)
