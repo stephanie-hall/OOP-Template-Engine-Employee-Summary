@@ -29,8 +29,8 @@ To execute tests the user must execute the following command:
 
 ## Input
 
-![Employee Summary 1](assets/HW10Gif.gif)
+![Employee Summary 1](assets\HW10Input.gif)
 
 ## Output
 
-![Employee Summary 1](assets/HW10.PNG)
+![Employee Summary 1](assets\HW10.PNG)
